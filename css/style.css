@@ -1,0 +1,19 @@
+#divGeneral {
+    
+    font-family:Arial; 
+    color:#124946;
+}
+
+
+h2{
+    color: #F70F47;
+}
+
+table, th, td{
+    border: 2px solid black;
+    border-color:#31C9C5;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: left;
+}
+
